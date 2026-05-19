@@ -1,1 +1,2 @@
-src/console-meme.js linguist-language=JavaScript
+*.js linguist-detectable=true
+*.js linguist-language=JavaScript
